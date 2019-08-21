@@ -1,3 +1,5 @@
+#This is a simple game of hangman
+
 print   *	*	*	*      * ******** *     *       *      *     *
 print	*	*      * *	* *    * *	  **   **      * *     **    *
 print	*	*     *   * 	*  *   * *	  * * * *     *   *    * *   *
